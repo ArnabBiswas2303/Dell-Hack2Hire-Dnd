@@ -1,0 +1,16 @@
+.LayoutEditor {
+  display: flex;
+  width: 90vw;
+  height: 90vh;
+  margin: auto;
+  overflow-x: hidden;
+  background-color: #f2f2f2;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  justify-content: space-evenly;
+}
+
+.LayoutEditor .Container {
+  margin: 10px;
+}

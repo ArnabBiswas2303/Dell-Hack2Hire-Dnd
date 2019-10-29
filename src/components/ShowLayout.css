@@ -1,0 +1,22 @@
+.ShowLayout {
+  text-align: center;
+}
+
+.ShowLayout h1 {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.FinalLayout {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 90vw;
+  min-height: 90vh;
+  background-color: aqua;
+  margin: auto;
+}
+
+.FinalLayout .Container {
+  margin: 10px;
+}
